@@ -54,3 +54,5 @@ for i = 1:c % Iniciamos en 1 porque no tenemos restricciones negativas
 	% AXIS([EJE_X_- EJE_X_+    EJE_Y_-    EJE_Y_+]) Separado por espacios solamente
 	axis([0 5*pi -1.5 1.5])
 end
+
+#
