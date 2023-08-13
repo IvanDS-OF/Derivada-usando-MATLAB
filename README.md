@@ -6,5 +6,5 @@ Este código fue programado en MATLAB. La intención del código es simular el c
 ## Derivada: 
 La derivada expresa la razón de cambio. La función matemática que usamos en este repositorio es la siguiente: 
 
-$` y = lim_[h->0] [ f(x + h) - f(x) ] / h `$
+$` y = lim_{h->0} [ f(x + h) - f(x) ] / h `$
 
