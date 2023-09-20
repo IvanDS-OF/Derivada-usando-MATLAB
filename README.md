@@ -8,6 +8,8 @@ La derivada expresa la razón de cambio. La función matemática que usamos en e
 
 $$ y = lim_{h->0} [ f(x + h) - f(x) ] / h $$
 
+$$ \frac{1}{2} $$
+
 ## Partes del código
 
 El código fue escrito en MATLAB, por lo que la sintaxis general corresponde a este lenguaje de programación. 
