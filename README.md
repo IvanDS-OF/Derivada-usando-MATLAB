@@ -6,7 +6,7 @@ Este código fue programado en MATLAB. La intención del código es simular el c
 ## Derivada: 
 La derivada expresa la razón de cambio. La función matemática que usamos en este repositorio es la siguiente: 
 
-$` y = lim_{h->0} [ f(x + h) - f(x) ] / h `$
+$$ y = lim_{h->0} [ f(x + h) - f(x) ] / h $$
 
 ## Partes del código
 
@@ -36,7 +36,7 @@ Y luego hacemos la derivada iterando el resultado de la función matemática de 
 
 La animación tiene la siguiente lógica. 
 
-> Todo corre sofre un **for** que recorre la forma del vector del tiempo. 
+> Todo corre sobre un **for** que recorre la forma del vector del tiempo. 
 
 + Crear la figura con los ejes fijos. 
 + Colocar la función, la derivada, y una pendiente -> Frame.
